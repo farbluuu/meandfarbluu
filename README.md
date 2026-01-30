@@ -1,9 +1,8 @@
-# Hi there! I'm farbluuu 👋 
-### Software Developer 
+# Hi there! I'm farbluuu ( AMITA ROMA )👋 
+### Software Developer | Frontend Developer | Full-stack Explorer
 
 ---
 
-# Amita Roma -
 <p align="left">
   <a href="mailto:faramita.rm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/amita-roma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -11,9 +10,13 @@
 </p>
 
 ---
-### Frontend Developer | Full-stack Explorer
 
-*"I don't have anything we can't do, and we have everything we can do."*
+### 👨‍💻 About Me
+I’m a **Software Developer** with about **3 years of experience** working on various enterprise projects. My daily work mainly involves **React.js** and **Next.js**, and lately, I’ve been spending more time with **AEM 6.5**.
+
+I really enjoy the process of building components and seeing them come to life. Right now, I’m just focused on getting better at what I do—whether it’s refining my code or practicing my English.
+
+*"Thanks GOD, I'm Alive"*
 
 ---
 
@@ -25,24 +28,26 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINE_LIFF-00C300?style=for-the-badge&logo=line&logoColor=white" />
 </p>
 
 ### 🛠️ Full Tech Stack & Tools
 
 **Frontend & Styling:**
-- **Frameworks/Libraries:** React, Next.js, Redux, MUI, Ant Design, Shadcn/ui
+- **Frameworks/Libraries:** React, Next.js, Redux, MUI, Ant Design, Shadcn/ui ,LINE LIFF
 - **CSS:** Tailwind, Bootstrap, jQuery
 
 **Backend & Architecture:**
-- **Languages:** Node.js, Nest.js, .Net
-- **Concepts:** RESTful API, MVC, 
-- **CMS:** Adobe Experience Manager (AEM 6.5)
+- **Languages:** Node.js, Nest.js, .Net MVC, Python, Kotlin
+- **Concepts:** RESTful API, MVC, Refine
+- **CMS:** Adobe Experience Manager (AEM 6.5) (Entry-level)
 
 **Database:**
 - **SQL:** PostgreSQL, MySQL, MSSQL
-- **NoSQL:** MongoDB
+- **NoSQL:** MongoDB, Firebase
 
 **Tools & Workflow:**
+- **Containerization:** Docker (Entry-level)
 - **Version Control:** Git, GitLab, Fork
 - **Management:** Jira, Plane, Trello
 - **Development:** VS Code, Postman, Figma, DBeaver, Table Plus
