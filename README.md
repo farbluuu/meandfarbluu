@@ -26,7 +26,7 @@ I really enjoy the process of building components and seeing them come to life. 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/LINE_LIFF-00C300?style=for-the-badge&logo=line&logoColor=white" />
 </p>
@@ -34,7 +34,7 @@ I really enjoy the process of building components and seeing them come to life. 
 ### 🛠️ Full Tech Stack & Tools
 
 **Frontend & Styling:**
-- **Frameworks/Libraries:** React, Next.js, Redux, MUI, Ant Design, Shadcn/ui ,LINE LIFF
+- **Frameworks/Libraries:** React, Next.js, React Query, MUI, Ant Design, Shadcn/ui ,LINE LIFF
 - **CSS:** Tailwind, Bootstrap, jQuery
 
 **Backend & Architecture:**
