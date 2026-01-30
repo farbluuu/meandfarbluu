@@ -1,5 +1,5 @@
 # Hi there! I'm farbluuu 👋 
-### Frontend Developer | AEM Specialist
+### Software Developer 
 
 ---
 
@@ -30,12 +30,12 @@
 ### 🛠️ Full Tech Stack & Tools
 
 **Frontend & Styling:**
-- **Frameworks/Libraries:** React, Next.js, Redux, Zustand, MUI, Ant Design, Shadcn/ui
-- **CSS:** Sass, Tailwind, Bootstrap, jQuery
+- **Frameworks/Libraries:** React, Next.js, Redux, MUI, Ant Design, Shadcn/ui
+- **CSS:** Tailwind, Bootstrap, jQuery
 
 **Backend & Architecture:**
-- **Languages:** Node.js, PHP (Laravel, Lumen), Golang
-- **Concepts:** RESTful API, MVC, Domain-Driven Design (DDD)
+- **Languages:** Node.js, Nest.js, .Net
+- **Concepts:** RESTful API, MVC, 
 - **CMS:** Adobe Experience Manager (AEM 6.5)
 
 **Database:**
@@ -44,13 +44,13 @@
 
 **Tools & Workflow:**
 - **Version Control:** Git, GitLab, Fork
-- **Management:** Clickup, Jira, Trello
-- **Development:** VS Code, Postman, Figma, DBeaver, MongoDB Compass
+- **Management:** Jira, Plane, Trello
+- **Development:** VS Code, Postman, Figma, DBeaver, Table Plus
 
 ---
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farbluuu&show_icons=true&theme=radical&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farbluuu&layout=compact&theme=radical" width="45%" />
-</p>
+### 📊 GitHub Activity
+  
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=farbluuu&show_icons=true&theme=radical)
+
+
